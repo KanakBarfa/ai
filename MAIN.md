@@ -2,6 +2,8 @@
 
 This document catalogues all 52 model task types available on the Hugging Face Hub, grouped by domain. Each entry provides the official pipeline tag and a concise two-sentence explanation of what the task entails.
 
+**Start here:** [roadmap.md](roadmap.md) explains the shared concepts, exact mechanisms, model families, and a dependency-based reading order. Each task file is a compact spec: representative model, exact architecture, the niche mechanism that makes it work, training, use, and caveats.
+
 ---
 
 ## Multimodal
